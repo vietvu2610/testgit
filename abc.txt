@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 123456789
+<<<<<<< HEAD
 12312332123132132131
+=======
+asdasd
+=======
+sdfsdfsdfsdf
+>>>>>>> 9b9fb7fe5aca652967d17ab56cb9432475878441
+>>>>>>> parent of ca81006... Add abc.txt
